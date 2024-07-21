@@ -293,8 +293,10 @@
 	"keyboardlayoutforce": "true",
 	"keyboardlayoutbase": "dvorak",
 	"keyboardlayoutoverrides": {
-		"Semicolon": "'",
-		"Quote": ";"
+		";": "'",
+		"\"": ":",
+		"'": ";",
+		":": "\""
 	},
 	"autocontain": {},
 	"proxy": "",
