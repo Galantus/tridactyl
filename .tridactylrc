@@ -288,16 +288,14 @@
 		"FullscreenEnter": {},
 		"FullscreenLeft": {}
 	},
-	"keytranslatemap": {
-		"'": ";",
-		"\"": ":",
-		";": "'",
-		":": "\""
-	},
+	"keytranslatemap": {},
 	"usekeytranslatemap": "true",
 	"keyboardlayoutforce": "true",
 	"keyboardlayoutbase": "dvorak",
-	"keyboardlayoutoverrides": {},
+	"keyboardlayoutoverrides": {
+	"Semicolon": "'\"",
+	"Quote": ";:"
+	},
 	"autocontain": {},
 	"proxy": "",
 	"proxies": {},
