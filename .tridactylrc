@@ -1,4 +1,4 @@
-{
+/{
 	"configversion": "2.0",
 	"subconfigs": {
 		"www.google.com": {
@@ -157,7 +157,7 @@
 		"M": "gobble 1 quickmark",
 		"B": "fillcmdline taball",
 		"b": "fillcmdline tab",
-		"ZZ": "qall",
+		"ZZ": "composite sanitise tridactyllocal; qall",
 		"f": "hint",
 		"F": "hint -b",
 		"gF": "hint -qb",
